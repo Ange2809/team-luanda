@@ -4,3 +4,5 @@ Modeles de projets de depart des sessions Foundation (prives, reutilises a chaqu
 Chaque projet a un dossier, puis un sous-dossier par plateforme.
 
 - ngoma/ : messagerie (Web, Android, Windows, Linux) - package ai.tambo.foundation.ngoma
+
+Test - Equipe Luanda - Banche develop
